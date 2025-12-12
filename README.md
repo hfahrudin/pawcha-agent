@@ -11,7 +11,7 @@ Pawcha Agent leverages the power of Large Language Models (LLMs) to analyze and 
 
 ## Demo
 
-(Here you can add a screenshot or a GIF of the agent in action. To add an image, you can use the following Markdown syntax: `![Demo Image](path/to/your/image.png)`)
+Comming soon!
 
 ## Methods
 
@@ -24,8 +24,6 @@ The agent uses a combination of Optical Character Recognition (OCR) and a powerf
 
 ## Architecture
 
-The Food Receipt Agent is built with a simple and robust architecture:
-
 - **Frontend**: A simple HTML page (`frontend/index.html`) that allows users to upload receipt images.
 - **Backend**: A Python-based backend built with FastAPI that handles the image uploads, processing, and data storage.
   - `main.py`: The main entry point for the backend, which defines the API endpoints.
@@ -37,7 +35,7 @@ The Food Receipt Agent is built with a simple and robust architecture:
 
 ## Setup and Installation
 
-To set up and run the Food Receipt Agent, you will need to have Docker and Docker Compose installed on your system.
+To set up and Pawcha, you will need to have Docker and Docker Compose installed on your system.
 
 1. **Clone the repository**:
    ```bash
