@@ -1,5 +1,5 @@
 from langgraph.graph import StateGraph, END
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from typing import TypedDict
 from langchain_openai import ChatOpenAI
 from datetime import date
