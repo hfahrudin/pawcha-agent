@@ -11,7 +11,7 @@ Pawcha Agent leverages the power of Large Language Models (LLMs) to analyze and 
 
 ## Demo
 
-Comming soon!
+<img src="./assets/demo.gif" alt="Chatbot Interface Demo" width="720"/>
 
 ## Methods
 
