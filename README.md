@@ -39,8 +39,8 @@ To set up and Pawcha, you will need to have Docker and Docker Compose installed 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/food-receipt-agent.git
-   cd food-receipt-agent
+   git clone https://github.com/hfahrudin/pawcha-agent.git
+   cd pawcha-agent
    ```
 
 2. **Create a `.env` file**:
